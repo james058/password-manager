@@ -20,5 +20,6 @@ The app also checks if a password has been **compromised in known breaches** usi
 ```bash
 git clone https://github.com/james058/password-manager.git
 cd password-manager
-
-2. Create the viryual environment(recommended): python -m venv venv
+### 2. Create the virtual environment(recommended)
+```bash
+python -m venv venv
