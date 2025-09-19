@@ -20,6 +20,20 @@ The app also checks if a password has been **compromised in known breaches** usi
 ```bash
 git clone https://github.com/james058/password-manager.git
 cd password-manager
+```
 ### 2. Create the virtual environment(recommended)
 ```bash
 python -m venv venv
+```
+Activate it: Windows (CMD): venv\Scripts\activate, Linux/macOS: source venv/bin/activate
+### 3. install dependencies
+```bash
+pip install -r requirements.txt
+```
+## Usage
+Run the app:
+```bash
+python app.py
+```
+Open in browser: go to http://127.0.0.1:5000
+
