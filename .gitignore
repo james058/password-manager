@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local database
+passwords.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
